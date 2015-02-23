@@ -7,8 +7,8 @@ public class MainClass {
 		
 		//https://github.com/Ali58l/myfirstgittest.git
 		
-		System.out.println("Helloo Ali Jan");
-		System.out.println("khoooobi??");
+		System.out.println("Helloo");
+		System.out.println("Test GIT??");
 
 	}
 
